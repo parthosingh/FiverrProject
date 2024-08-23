@@ -1,0 +1,48 @@
+.box{
+    background-color: aliceblue;
+    border-radius: 15px;
+}
+.box:hover {
+    background-color: #1dbf73;
+  }
+
+
+
+
+
+  /* E-commerce styling */
+ 
+  .box1{
+    width: 50%;
+    padding-left: 1%;
+    background-color: #003912;
+    color: aliceblue;
+  }
+
+  .Parentbox{
+    display: flex;
+    justify-content: center;
+   
+  }
+
+  .box2{
+    /* border: 1px solid black; */
+    padding-top: 10%;
+    background-color: #003912;
+  } 
+  
+  
+  /* Reviewfiverr Styling */
+
+  .Review{
+   display: flex;
+    margin-right: 10%;
+    width: 80%;
+  }
+
+  /* Logomaker */
+  .logo{
+    display: flex;
+    
+  }
+
